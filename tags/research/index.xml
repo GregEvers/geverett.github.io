@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Gregory Everett</title>
-    <link>http://localhost:1313/tags/research/</link>
+    <link>https://geverett.co.uk/tags/research/</link>
     <description>Recent content in Research on Gregory Everett</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geverett.co.uk/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Talks</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://geverett.co.uk/projects/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://geverett.co.uk/projects/</guid>
       <description>&lt;div class=&#34;video-container&#34; style=&#34;display: flex; flex-direction: column; align-items: center; margin-bottom: 30px; padding: 25px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; max-width: 100%; width: 100%; box-sizing: border-box;&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.youtube.com/watch?v=sGGyi56Gx2Q&#34; target=&#34;_blank&#34; style=&#34;margin-bottom: 15px; width: 100%; text-align: center;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://img.youtube.com/vi/sGGyi56Gx2Q/0.jpg&#34; alt=&#34;StatsBomb Conference 2022: Contextual Expected Threat Using Spatial Event Data&#34; style=&#34;max-width: 100%; height: auto; border-radius: 4px;&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;div class=&#34;video-description&#34; style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;        &lt;h3 style=&#34;font-size: 1.5em; margin: 0;&#34;&gt;StatsBomb Conference 2022: Contextual Expected Threat Using Spatial Event Data&lt;/h3&gt;&#xD;&#xA;        &lt;p style=&#34;font-size: 1em; margin: 0;&#34;&gt;Research on using spatial event data to provide additional context to an expected threat model to compute goal-scoring probabilities, and how this can be leveraged to evaluate team positioning in attack and defence with a novel TaX metric.&lt;/p&gt;</description>
     </item>
   </channel>
