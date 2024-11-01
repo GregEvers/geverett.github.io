@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregory Everett</title>
-    <link>https://gregevers.github.io/geverett.github.io/</link>
+    <link>https://geverett.co.uk/</link>
     <description>Recent content on Gregory Everett</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gregevers.github.io/geverett.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geverett.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>https://gregevers.github.io/geverett.github.io/publications/</link>
+      <link>https://geverett.co.uk/publications/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gregevers.github.io/geverett.github.io/publications/</guid>
+      <guid>https://geverett.co.uk/publications/</guid>
       <description>&lt;h2 id=&#34;inferring-player-location-in-sports-matches-multi-agent-spatial-imputation-from-limited-observationshttpsdlacmorgdoi10555535459463598821&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;https://dl.acm.org/doi/10.5555/3545946.3598821&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inferring Player Location in Sports Matches: Multi-Agent Spatial Imputation from Limited Observations&lt;/a&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#inferring-player-location-in-sports-matches-multi-agent-spatial-imputation-from-limited-observationshttpsdlacmorgdoi10555535459463598821&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Citation:&lt;/strong&gt; Everett, G., Beal, R.J., Matthews, T., Early, J., Norman, T.J. and Ramchurn, S.D., 2023, May. Inferring Player Location in Sports Matches: Multi-Agent Spatial Imputation from Limited Observations. In Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (pp. 1643-1651).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Understanding agent behavior in Multi-Agent Systems (MAS) is critical in fields like autonomous driving, disaster response, and sports analytics. This work tackles agent location imputation in environments with non-uniform timesteps and ~95% missing values. Using Long Short-Term Memory and Graph Neural Networks, we predict agent locations, applying this to football by imputing player locations from sparse event data. Our model increases accessibility to analysis such as physical metrics and pitch control without the need for costly optical tracking data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Talks</title>
-      <link>https://gregevers.github.io/geverett.github.io/projects/</link>
+      <link>https://geverett.co.uk/projects/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://gregevers.github.io/geverett.github.io/projects/</guid>
-      <description>&lt;div class=&#34;video-container&#34; style=&#34;display: flex; align-items: center; margin-bottom: 30px; padding: 25px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; max-width: 1600px;&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.youtube.com/watch?v=sGGyi56Gx2Q&#34; target=&#34;_blank&#34; style=&#34;margin-right: 20px;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://img.youtube.com/vi/sGGyi56Gx2Q/0.jpg&#34; alt=&#34;StatsBomb Conference 2022: Contextual Expected Threat Using Spatial Event Data&#34; style=&#34;max-width: 300px; height: auto;&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;div class=&#34;video-description&#34;&gt;&#xD;&#xA;        &lt;h3&gt;StatsBomb Conference 2022: Contextual Expected Threat Using Spatial Event Data&lt;/h3&gt;&#xD;&#xA;        &lt;p&gt;Research on using spatial event data to provide additional context to an expected threat model to compute goal-scoring probabilities, and how this can be leveraged to evaluate team positioning in attack and defence with a novel TaX metric.&lt;/p&gt;</description>
+      <guid>https://geverett.co.uk/projects/</guid>
+      <description>&lt;div class=&#34;video-container&#34; style=&#34;display: flex; flex-direction: column; align-items: center; margin-bottom: 30px; padding: 25px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; max-width: 100%; width: 100%; box-sizing: border-box;&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.youtube.com/watch?v=sGGyi56Gx2Q&#34; target=&#34;_blank&#34; style=&#34;margin-bottom: 15px; width: 100%; text-align: center;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://img.youtube.com/vi/sGGyi56Gx2Q/0.jpg&#34; alt=&#34;StatsBomb Conference 2022: Contextual Expected Threat Using Spatial Event Data&#34; style=&#34;max-width: 100%; height: auto; border-radius: 4px;&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;div class=&#34;video-description&#34; style=&#34;text-align: center;&#34;&gt;&#xD;&#xA;        &lt;h3 style=&#34;font-size: 1.5em; margin: 0;&#34;&gt;StatsBomb Conference 2022: Contextual Expected Threat Using Spatial Event Data&lt;/h3&gt;&#xD;&#xA;        &lt;p style=&#34;font-size: 1em; margin: 0;&#34;&gt;Research on using spatial event data to provide additional context to an expected threat model to compute goal-scoring probabilities, and how this can be leveraged to evaluate team positioning in attack and defence with a novel TaX metric.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://gregevers.github.io/geverett.github.io/about/</link>
+      <link>https://geverett.co.uk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gregevers.github.io/geverett.github.io/about/</guid>
+      <guid>https://geverett.co.uk/about/</guid>
       <description>&lt;h1 id=&#34;about--gregory-everett&#34;&gt;&#xD;&#xA;  About · Gregory Everett&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about--gregory-everett&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;&#xD;&#xA;  About Me&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-me&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I am Gregory Everett, a third-year PhD student in Computer Science at the &lt;a href=&#34;https://www.southampton.ac.uk/research/groups/agents-interaction-complexity&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Southampton&lt;/a&gt;. I also completed an &lt;strong&gt;Integrated MEng in Computer Science&lt;/strong&gt; at the University of Southampton, earning a &lt;strong&gt;first-class degree&lt;/strong&gt;. During my studies, I completed a variety of modules related to machine learning.&lt;/p&gt;&#xA;&lt;p&gt;My PhD research is focused on &lt;strong&gt;optimizing and analyzing teams&lt;/strong&gt; through machine learning methodologies such as &lt;strong&gt;Reinforcement Learning&lt;/strong&gt; and &lt;strong&gt;Supervised Learning&lt;/strong&gt; models like &lt;strong&gt;Graph Neural Networks&lt;/strong&gt;. I concentrate particularly on football teams, aiming to advance research into how data science can improve decision-making processes in clubs for &lt;strong&gt;recruitment, tactical analysis and player evaluation&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact · Gregory Everett</title>
-      <link>https://gregevers.github.io/geverett.github.io/contact/</link>
+      <link>https://geverett.co.uk/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gregevers.github.io/geverett.github.io/contact/</guid>
+      <guid>https://geverett.co.uk/contact/</guid>
       <description>&lt;p&gt;Feel free to reach out to me on the following platforms:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/greg-everett-064136200/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gregory Everett&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;X:&lt;/strong&gt; &lt;a href=&#34;https://x.com/greg_everett&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@greg_everett&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
